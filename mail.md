@@ -2,7 +2,6 @@ ODTÜ Yönetimine,
 
 Öğrenciler olarak 1 aydan uzun süredir yürüttüğümüz seçmeli geçme/kalma sisteminin okulumuzda uygulanmasını amaçlayan çalışmalarımızın sonucunda 13 Mayıs günü ODTÜ Senatosu tarafından verilen kararı uygun bulmuyoruz.
 
-Sebeplerimiz arasında;
 
 1. Öğrencilerin önerdiği sistemin faydalarının göz ardı edilip, suistimal edilememesi amacıyla pek çok öğrenci tarafından kullanılmaz hale getirilmiş, dönemdeki tüm dersler için tek seçim yapabilmemize izin veren sistemin getirilmesi.
 2. Getirilen sistemle ilgili hiçbir öğrenci ön fikri alınmaması, öğrenci görüşünün yok sayılması.
