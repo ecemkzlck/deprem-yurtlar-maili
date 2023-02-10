@@ -36,11 +36,11 @@ AFAD Website:
 
 ### Kızılay (Turkish Red Crescent)
 
-Kızılay is the Turkish Red Crescent. Kızılay is responsible for coordinating the relief efforts. Kızılay accepts donations in the form of wire transfers. You can donate to Kızılay by visiting their website.
+Kızılay is the Turkish Red Crescent. Kızılay is responsible for coordinating the relief efforts. Kızılay accepts donations in the form of bank transfers. You can donate to Kızılay by visiting their website.
 
 Kızılay Website:
 
-[https://www.kizilay.org.tr/](https://www.kizilay.org.tr/)
+[https://www.kizilay.org.tr/Bagis/BagisYap/405/donations-for-earthquake-in-pazarcik](https://www.kizilay.org.tr/Bagis/BagisYap/405/donations-for-earthquake-in-pazarcik)
 
 ### UNICEF
 
