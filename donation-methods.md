@@ -20,7 +20,7 @@ AKUT is a Turkish non-governmental organization that provides humanitarian aid t
 
 AKUT accepts donations in the form of bank transfers, and credit card payments. You can donate to AKUT by visiting their website.
 
-Akut Website: [https://www.akut.org.tr/](https://www.akut.org.tr/)
+Akut Website: [https://www.akut.org.tr/en/donation](https://www.akut.org.tr/en/donation)
 
 ### AFAD
 
