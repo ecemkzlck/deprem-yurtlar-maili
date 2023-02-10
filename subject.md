@@ -1,1 +1,1 @@
-Request for Support for Earthquake Victims in Turkey and Syria
+Depremzede Öğrencilerin Yurt Ücreti Hk.
