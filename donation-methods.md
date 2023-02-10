@@ -12,7 +12,9 @@ AHBAP is a Turkish non-governmental organization that provides humanitarian aid 
 
 AHBAP accepts donations in the form of bank transfers, credit card payments, and cryptocurrencies. You can donate to AHBAP by visiting their website.
 
-AHBAP Website: [https://ahbap.org/disasters-turkey/](https://ahbap.org/disasters-turkey/)
+AHBAP Website: 
+
+[https://ahbap.org/disasters-turkey/](https://ahbap.org/disasters-turkey/)
 
 ### AKUT
 
@@ -20,20 +22,25 @@ AKUT is a Turkish non-governmental organization that provides humanitarian aid t
 
 AKUT accepts donations in the form of bank transfers, and credit card payments. You can donate to AKUT by visiting their website.
 
-Akut Website: [https://www.akut.org.tr/en/donation](https://www.akut.org.tr/en/donation)
+Akut Website: 
+
+[https://www.akut.org.tr/en/donation](https://www.akut.org.tr/en/donation)
 
 ### AFAD
 
 AFAD is the Turkish Disaster and Emergency Management Authority. AFAD is responsible for coordinating the relief efforts. AFAD accepts donations in the form of wire transfers. You can donate to AFAD by visiting their website.
 
-AFAD Website: [https://en.afad.gov.tr/earthquake-humanitarian-aid-campaign](https://en.afad.gov.tr/earthquake-humanitarian-aid-campaign)
+AFAD Website: 
+
+[https://en.afad.gov.tr/earthquake-humanitarian-aid-campaign](https://en.afad.gov.tr/earthquake-humanitarian-aid-campaign)
 
 ### Kızılay (Turkish Red Crescent)
 
 Kızılay is the Turkish Red Crescent. Kızılay is responsible for coordinating the relief efforts. Kızılay accepts donations in the form of wire transfers. You can donate to Kızılay by visiting their website.
 
-Kızılay Website: [https://www.kizilay.org.tr/](https://www.kizilay.org.tr/)
+Kızılay Website: 
 
+[https://www.kizilay.org.tr/](https://www.kizilay.org.tr/)
 
 ### UNICEF
 
