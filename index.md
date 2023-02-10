@@ -5,8 +5,8 @@
 {% include_relative mail.md %}
 </textarea>
 
-<button id="button" data-clipboard-action="copy" data-clipboard-target="#textarea" data-tippy-content="Kopyalandı. Mail açılıyor">
-    Metni Kopyala ve Mail'e Devam Et
+<button id="button" data-clipboard-action="copy" data-clipboard-target="#textarea" data-tippy-content="Copied, opening mail client">
+    Copy to clipboard and open mail client
 </button>
 
 <script src="https://unpkg.com/@popperjs/core@2"></script>

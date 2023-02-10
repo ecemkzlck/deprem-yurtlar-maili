@@ -1,1 +1,1 @@
-13%20Mayıs%20Günü%20Alınan%20Uzaktan%20Eğitim%20Kararı%20Hakkında
+Request%20for%20Support%20for%20Earthquake%20Victims%20in%20Turkey%20and%20Syria
