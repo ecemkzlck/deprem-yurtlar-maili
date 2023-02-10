@@ -40,3 +40,7 @@ Kızılay Website: [https://www.kizilay.org.tr/](https://www.kizilay.org.tr/)
 UNICEF is a United Nations agency that provides humanitarian aid to children in need. UNICEF has been providing aid to the victims of the earthquake. UNICEF accepts donations in the form of bank transfers, credit card payments, Paypal, and Venmo. You can donate to UNICEF by visiting their website.
 
 UNICEF Website: [https://www.unicefusa.org/stories/unicef-responding-after-massive-earthquake-syria-and-turkey/40803](https://www.unicefusa.org/stories/unicef-responding-after-massive-earthquake-syria-and-turkey/40803)
+
+### Other Sources
+
+* [https://www.reddit.com/r/Turkey/comments/10w7nbc/how_to_help_turkey_earthquake_fundraisers/](https://www.reddit.com/r/Turkey/comments/10w7nbc/how_to_help_turkey_earthquake_fundraisers/)
