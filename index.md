@@ -21,8 +21,12 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     document.getElementById('button').addEventListener('click', function() {
+        let address_data = {% include_relative addresses.md %};
+        let subject_data = {% include_relative subject.md %};
+        let body_data = {% include_relative mail.md %};
+
         setTimeout(function() {
-            window.location.href = `mailto:{% include_relative addresses.md %}?subject={% include_relative subject.md %}&body={% include_relative mail.md %}`;
+            window.location.href = `mailto:address_data?subject=subject_data&body=body_data`;
         }, 550);
     });
 });
