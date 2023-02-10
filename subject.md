@@ -1,1 +1,1 @@
-Request%20for%20Support%20for%20Earthquake%20Victims%20in%20Turkey%20and%20Syria
+Request for Support for Earthquake Victims in Turkey and Syria

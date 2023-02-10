@@ -23,6 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById('button').addEventListener('click', function() {
         let address_data = "{% include_relative addresses.md %}";
         let subject_data = "{% include_relative subject.md %}";
+        subject_data = subject_data.replace(/ /g, '%20');
         let body_data = `{% include_relative mail.md %}`;
         body_data = body_data.replace(/\n/g, '%0D%0A');
 
