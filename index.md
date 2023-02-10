@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function() {
     new ClipboardJS('#button');
 
     document.getElementById('button').addEventListener('click', function() {
-        let address_data = "{% include_relative addresses.md %}";
+        let address_data = `{% include_relative addresses.md %}`;
         address_data = address_data.replace(/\n/g, ',');
         let subject_data = "{% include_relative subject.md %}";
         subject_data = subject_data.replace(/ /g, '%20');
