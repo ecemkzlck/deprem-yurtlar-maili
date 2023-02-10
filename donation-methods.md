@@ -33,3 +33,10 @@ AFAD Website: [https://en.afad.gov.tr/earthquake-humanitarian-aid-campaign](http
 Kızılay is the Turkish Red Crescent. Kızılay is responsible for coordinating the relief efforts. Kızılay accepts donations in the form of wire transfers. You can donate to Kızılay by visiting their website.
 
 Kızılay Website: [https://www.kizilay.org.tr/](https://www.kizilay.org.tr/)
+
+
+### UNICEF
+
+UNICEF is a United Nations agency that provides humanitarian aid to children in need. UNICEF has been providing aid to the victims of the earthquake. UNICEF accepts donations in the form of bank transfers, credit card payments, Paypal, and Venmo. You can donate to UNICEF by visiting their website.
+
+UNICEF Website: [https://www.unicefusa.org/stories/unicef-responding-after-massive-earthquake-syria-and-turkey/40803](https://www.unicefusa.org/stories/unicef-responding-after-massive-earthquake-syria-and-turkey/40803)
