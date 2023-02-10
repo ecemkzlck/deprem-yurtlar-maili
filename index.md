@@ -28,6 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
         let body_data = `{% include_relative mail.md %}`;
         body_data = body_data.replace(/\n/g, '%0D%0A');
 
+        console.log(`mailto:${address_data}?subject=${subject_data}&body=${body_data}`);
         setTimeout(function() {
             window.location.href = `mailto:${address_data}?subject=${subject_data}&body=${body_data}`;
         }, 550);
