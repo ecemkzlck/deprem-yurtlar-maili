@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     document.getElementById('button').addEventListener('click', function() {
         setTimeout(function() {
-            window.location.href = `mailto:{% include_relative addresses.md %}?subject={% include_relative subject.md %}`;
+            window.location.href = `mailto:{% include_relative addresses.md %}?subject={% include_relative subject.md %}&body={% include_relative mail.md %}`;
         }, 550);
     });
 });
