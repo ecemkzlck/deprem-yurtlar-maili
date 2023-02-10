@@ -51,3 +51,4 @@ UNICEF Website: [https://www.unicefusa.org/stories/unicef-responding-after-massi
 ### Other Sources
 
 * [https://www.reddit.com/r/Turkey/comments/10w7nbc/how_to_help_turkey_earthquake_fundraisers/](https://www.reddit.com/r/Turkey/comments/10w7nbc/how_to_help_turkey_earthquake_fundraisers/)
+* [https://docs.google.com/document/d/19yxfClXc3d_hJMvQH44X2Aj26Tq146X97I4alDjoz3o/edit?usp=sharing](https://docs.google.com/document/d/19yxfClXc3d_hJMvQH44X2Aj26Tq146X97I4alDjoz3o/edit?usp=sharing)
