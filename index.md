@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function() {
         body_data = body_data.replace(/\n/g, '%0D%0A');
 
         setTimeout(function() {
-            window.location.href = `mailto:address_data?subject=subject_data&body=body_data`;
+            window.location.href = `mailto:${address_data}?subject=${subject_data}&body=${body_data}`;
         }, 550);
     });
 });
