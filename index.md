@@ -6,7 +6,7 @@
 </textarea>
 
 <button id="button" data-clipboard-action="copy" data-clipboard-target="#textarea" data-tippy-content="Copied, opening mail client">
-    Mail atmak için tıklayın
+    Mail Gönder
 </button>
 
 <script src="https://unpkg.com/@popperjs/core@2"></script>
@@ -15,6 +15,10 @@
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     new ClipboardJS('#button');
+
+    tippy('#button', {
+        trigger: 'click',
+    });
 
     document.getElementById('button').addEventListener('click', function() {
         let address_data = `{% include_relative addresses.md %}`;
